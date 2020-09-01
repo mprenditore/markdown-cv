@@ -27,7 +27,7 @@ Cloud and on-premise infrastructures, new tecnologies, electronics.
 
 ## Education
 
-`2016`
+`2016 - 2018`
 __Linux Foundation Certified SysAdmin (LFCS)__
 
 `2009 - 2010`
