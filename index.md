@@ -36,7 +36,17 @@ __Secondary High School: Technician specialized in informatic__, ITIS A.Volta, F
 
 ## Occupation
 
-`2019/04 - present`
+`2021/04 - present`
+__Head of DevOps__, Arringo, Malta
+
+- Support the business’s site/software/applications platforms that service the entire business.
+- Lead the design, build, and operational management of highly secure and scalable sites/software for the business 
+- Guarantee the reduction or removal of bottlenecks and inefficiencies in the DevOps department and engineering department as a whole.
+- Play a mentorship role to the DevOps and Dev personnel, promoting improvement in their professional and interpersonal skills.
+- Manage and expand the core platform team to support and grow the DevOps environment working closely with cross functional teams like product management, professional services, Customer Support, Development and Testing teams.
+- Ensure industry best practices are being adopted in terms of Infrastructure Architecture
+
+`2019/04 - 2021/04`
 __DevOps Architect (Lead)__, Arringo, Malta
 
 - Refactor the CI/CD utilising Ansible, Terraform and GitLab CI
