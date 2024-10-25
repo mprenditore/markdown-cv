@@ -39,12 +39,18 @@ __Secondary High School: Technician specialized in informatic__, ITIS A.Volta, F
 `2021/04 - present`
 __Head of DevOps__, Arringo, Malta
 
-- Support the business’s site/software/applications platforms that service the entire business.
-- Lead the design, build, and operational management of highly secure and scalable sites/software for the business 
-- Guarantee the reduction or removal of bottlenecks and inefficiencies in the DevOps department and engineering department as a whole.
-- Play a mentorship role to the DevOps and Dev personnel, promoting improvement in their professional and interpersonal skills.
-- Manage and expand the core platform team to support and grow the DevOps environment working closely with cross functional teams like product management, professional services, Customer Support, Development and Testing teams.
-- Ensure industry best practices are being adopted in terms of Infrastructure Architecture
+- Spearhead the support, design, and operational management of the business’s core platforms, ensuring the availability and performance of high-impact sites, software, and applications that service the entire organization
+- Lead the design, implementation, and operation of highly secure and scalable platforms supporting critical business applications and websites
+- Identify and eliminate bottlenecks across DevOps and engineering, increasing efficiency through streamlined processes and automation for faster, optimized delivery
+- Cultivate a culture of continuous improvement by mentoring DevOps, DBA, QA, and development personnel, fostering growth in their technical and collaborative skills
+- Manage and expand the core platform team, collaborating closely with cross-functional teams (Product Management, Professional Services, Customer Support, Development, and Testing) to ensure seamless integration and alignment with business objectives
+- Ensure the adoption of industry best practices in infrastructure architecture, maintaining a forward-looking approach to innovative technologies and solutions
+- Establish and enforce company-wide IT procedures and policies, standardizing workflows and enhancing consistency in delivery, security, and compliance
+- Partner with various departments to implement ISO 27001 and NIS2 standards, elevating the organization’s security and regulatory compliance
+- Implement cost-saving strategies through infrastructure optimization, reducing cloud spend and enhancing resource utilization without compromising performance
+- Develop and manage robust disaster recovery (DR) and business continuity plans to ensure operational resilience and data protection
+- Define and implement a comprehensive monitoring and observability strategy, utilizing tools and metrics that provide actionable insights for preemptive issue resolution and continuous improvement
+- Act as a key liaison between technical teams and business stakeholders, translating complex technical strategies into clear, actionable insights for leadership and clients
 
 `2019/04 - 2021/04`
 __DevOps Architect (Lead)__, Arringo, Malta
