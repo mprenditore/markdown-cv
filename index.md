@@ -17,11 +17,11 @@ DevOps Architect
 
 ### Specialized in
 
-Automation, scripting, containers, simplify developers life.
+Mentoring IT professionals, team management, coordinate projects across multiple teams, cost optimization for cloud infrastructures, automation, scripting, containerization, simplify developers life.
 
 ### Research interests
 
-Cloud and on-premise infrastructures, new tecnologies, electronics.
+Cloud and on-premise infrastructures, new technologies, electronics.
 
 ## Education
 
@@ -32,22 +32,22 @@ __Linux Foundation Certified SysAdmin (LFCS)__
 __Medic Engineering (Not accomplished)__, University of Tor Vergata, Rome
 
 `2005 - 2009`
-__Secondary High School: Technician specialized in informatic__, ITIS A.Volta, Frosinone
+__Secondary High School: Technician specialized in informatics__, ITIS A.Volta, Frosinone
 
-## Occupation
+## Occupation\
 
 `2021/04 - present`
 __Head of DevOps__, Arringo, Malta
 
-- Spearhead the support, design, and operational management of the business’s core platforms, ensuring the availability and performance of high-impact sites, software, and applications that service the entire organization
+- Spearhead the support, design, and operational management of the business’s core platforms, ensuring the availability and performance of services across the entire organization
 - Lead the design, implementation, and operation of highly secure and scalable platforms supporting critical business applications and websites
 - Identify and eliminate bottlenecks across DevOps and engineering, increasing efficiency through streamlined processes and automation for faster, optimized delivery
 - Cultivate a culture of continuous improvement by mentoring DevOps, DBA, QA, and development personnel, fostering growth in their technical and collaborative skills
-- Manage and expand the core platform team, collaborating closely with cross-functional teams (Product Management, Professional Services, Customer Support, Development, and Testing) to ensure seamless integration and alignment with business objectives
+- Manage and expand the core platform team, collaborating closely with cross-functional teams to ensure seamless integration and alignment with business objectives
 - Ensure the adoption of industry best practices in infrastructure architecture, maintaining a forward-looking approach to innovative technologies and solutions
 - Establish and enforce company-wide IT procedures and policies, standardizing workflows and enhancing consistency in delivery, security, and compliance
 - Partner with various departments to implement ISO 27001 and NIS2 standards, elevating the organization’s security and regulatory compliance
-- Implement cost-saving strategies through infrastructure optimization, reducing cloud spend and enhancing resource utilization without compromising performance
+- Define budget for the IT department and implement cost-saving strategies through infrastructure optimization, reducing cloud spend and enhancing resource utilization without compromising performance
 - Develop and manage robust disaster recovery (DR) and business continuity plans to ensure operational resilience and data protection
 - Define and implement a comprehensive monitoring and observability strategy, utilizing tools and metrics that provide actionable insights for preemptive issue resolution and continuous improvement
 - Act as a key liaison between technical teams and business stakeholders, translating complex technical strategies into clear, actionable insights for leadership and clients
@@ -55,13 +55,13 @@ __Head of DevOps__, Arringo, Malta
 `2019/04 - 2021/04`
 __DevOps Architect (Lead)__, Arringo, Malta
 
-- Refactor the CI/CD utilising Ansible, Terraform and GitLab CI
-- Optimise K8s deployment and resource allocation
-- Maintain and optimise the existing infrastucture
-- Create a new infrastructure on AWS from scratch where to migrate the old one
+- Refactor the CI/CD utilizing Ansible, Terraform and GitLab CI
+- Optimize K8s deployment and resource allocation
+- Maintain and optimize the existing infrastructure
+- Create a new infrastructure on AWS from scratch via IaC where to migrate the old one
 - Setup monitoring
 - Coordinate work with developers to improve their workflow
-- Create and optimise docker images for CI/CD and developers
+- Create and optimize docker images for CI/CD and developers
 
 `2018/07 - 2019/03`
 __Senior DevOps Engineer__, JackpotJoy Group, Malta
@@ -97,7 +97,7 @@ __System Engineer__, National Web Consulting, Italy
 - Schedule task between webmasters to respect the deadline
 - Creating a modular CRM from scratch
 - Migration of CMS/eCommerce from various hosting provider or local
-- Integration between custom Managment Software and eCommerce for product items
+- Integration between custom Management Software and eCommerce for product items
 - Network administrator
 - Websites deploy automation
 
@@ -122,7 +122,7 @@ __IT Technician__, Informan Srl, Italy
 
 - PC repairing
 - Help desk to customer for software update
-- Virus detection and removal: PC scanning using various Virus/Malware tools, in case of unknown virus I proceeded analysing the operating system to search for anomalies, elaborate of results, removed it/them and sent a report to antivirus companies
+- Virus detection and removal: PC scanning using various Virus/Malware tools, in case of unknown virus I proceeded analyzing the operating system to search for anomalies, elaborate of results, removed it/them and sent a report to antivirus companies
 - OS installation on PCs (Windows and various GNU/Linux distro) with custom post installation batch/bash scripts for software installation and configuration
 
 <!-- ### Footer
