@@ -15,9 +15,13 @@ DevOps Architect
 
 ## Currently
 
+### Overview
+
+With over 15 years of experience in IT and more than 5 years in leadership roles, I am committed to enhancing business efficiency and inspiring teams of IT professionals to deliver exceptional, high-quality products.
+
 ### Specialized in
 
-Mentoring IT professionals, team management, coordinate projects across multiple teams, cost optimization for cloud infrastructures, automation, scripting, containerization, simplify developers life.
+Mentoring IT professionals, team management, coordinate projects across multiple teams, cost optimization for cloud and hybrid infrastructures, automation, scripting, containerization, simplify developers life.
 
 ### Research interests
 
@@ -34,7 +38,7 @@ __Medic Engineering (Not accomplished)__, University of Tor Vergata, Rome
 `2005 - 2009`
 __Secondary High School: Technician specialized in informatics__, ITIS A.Volta, Frosinone
 
-## Occupation\
+## Occupation
 
 `2021/04 - present`
 __Head of DevOps__, Arringo, Malta
@@ -43,11 +47,11 @@ __Head of DevOps__, Arringo, Malta
 - Lead the design, implementation, and operation of highly secure and scalable platforms supporting critical business applications and websites
 - Identify and eliminate bottlenecks across DevOps and engineering, increasing efficiency through streamlined processes and automation for faster, optimized delivery
 - Cultivate a culture of continuous improvement by mentoring DevOps, DBA, QA, and development personnel, fostering growth in their technical and collaborative skills
-- Manage and expand the core platform team, collaborating closely with cross-functional teams to ensure seamless integration and alignment with business objectives
+- Manage and expand the core platform team from 2 to around 90 people, collaborating closely with cross-functional teams to ensure seamless integration and alignment with business objectives
 - Ensure the adoption of industry best practices in infrastructure architecture, maintaining a forward-looking approach to innovative technologies and solutions
 - Establish and enforce company-wide IT procedures and policies, standardizing workflows and enhancing consistency in delivery, security, and compliance
 - Partner with various departments to implement ISO 27001 and NIS2 standards, elevating the organization’s security and regulatory compliance
-- Define budget for the IT department and implement cost-saving strategies through infrastructure optimization, reducing cloud spend and enhancing resource utilization without compromising performance
+- Define budget for the IT department and implement cost-saving strategies through infrastructure optimization, reducing cloud spend by 50% and optimizing resource utilization without compromising performance
 - Develop and manage robust disaster recovery (DR) and business continuity plans to ensure operational resilience and data protection
 - Define and implement a comprehensive monitoring and observability strategy, utilizing tools and metrics that provide actionable insights for preemptive issue resolution and continuous improvement
 - Act as a key liaison between technical teams and business stakeholders, translating complex technical strategies into clear, actionable insights for leadership and clients
@@ -56,18 +60,18 @@ __Head of DevOps__, Arringo, Malta
 __DevOps Architect (Lead)__, Arringo, Malta
 
 - Refactor the CI/CD utilizing Ansible, Terraform and GitLab CI
-- Optimize K8s deployment and resource allocation
-- Maintain and optimize the existing infrastructure
-- Create a new infrastructure on AWS from scratch via IaC where to migrate the old one
-- Setup monitoring
+- Optimize K8s deployment and resource allocation cutting on the size of the cluster by 50% while keeping space to add more pods
+- Maintain and optimize the existing infrastructure correctly sizing the instances to cut down costs by 30%
+- Create a new infrastructure on AWS from scratch via IaC where to migrate the old one reducing the cost by 70%
+- Setup monitoring from scratch
 - Coordinate work with developers to improve their workflow
-- Create and optimize docker images for CI/CD and developers
+- Create and optimize docker images for CI/CD and developers, reducing size by over 70%
 
 `2018/07 - 2019/03`
 __Senior DevOps Engineer__, JackpotJoy Group, Malta
 
 - Containerization of services on OpenShift
-- Improving the monitoring infrastructure
+- Improving the monitoring infrastructure reducing by 50% the amount of bouncing alerts and introduced custom HAProxy zabbix template
 - Refactoring and development of Ansible playbooks
 - Helping Junior DevOps on daily task to improve productivity
 
@@ -75,21 +79,23 @@ __Senior DevOps Engineer__, JackpotJoy Group, Malta
 __Site Reliability Engineer__, GIG, Malta
 
 - Migrate, whenever possible, services from a Windows to a GNU/Linux environment
-- Manage and optimize CI/CD;
+- Manage and optimize CI/CD to reduce deploy speed by 200%;
 - Develop a monitor ecosystem with the integration of different tools
 - Re-design the infrastructure to facilitate the migration from a monolithic application to micro-services combining Virtual Machines and containers
 - Developing of specific tools to reduce the daily routine to gain time to spend on other tasks
-- Optimizing RabbitMQ infrastructure to be more flexible and reliable
+- Optimize RabbitMQ infrastructure to sustain 100% more throughput while avoiding pileup of messages
 - Organize and coordinate services migration to cloud providers
 
 `2016/04 - 2017/12`
 __System Engineer__, DNX Corp, Malta
 
 - Manage the infrastructure (GNU/Linux environment)
-- Manage servers via Salt Stack and BASH/Python scripting;
-- Migrate our infrastructure on private cloud services (AWS/Cloudmonkey);
 - Monitor all servers via Zabbix for performance analysis and alert system creating custom checks and templates
-- Monitor Logs via the integration of various tools (Logstash/Influxdb/Grafana)
+- Contributed to Nagstamon OpenSource tool to improve Zabbix integration
+- Migrate monitoring from Nagios to Zabbix to remove over 90% of false positive alarms
+- Migrate our infrastructure on private cloud services (AWS/Cloudmonkey);
+- Manage servers via Salt Stack and BASH/Python scripting;
+- Manage various logging/observability tools (Logstash/Influxdb/Grafana)
 
 `2015/08 - 2016/03`
 __System Engineer__, National Web Consulting, Italy
