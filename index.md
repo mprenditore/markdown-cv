@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Stefano Stella's CV
+title: Stefano Stella
 ---
 # Stefano Stella
 
