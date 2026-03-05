@@ -4,133 +4,80 @@ title: Stefano Stella
 ---
 # Stefano Stella
 
-DevOps Architect
+**Head of DevOps & IT Engineering Leadership**
 
 <div id="webaddress">
-<a href="stefano.stella@email.it">stefano.stella@email.it</a>
-| <a href="https://github.com/mprenditore">My GitHub page</a>
-| <a href="https://gitlab.com/mprenditore">My GitLab page</a>
-| <a href="https://www.linkedin.com/in/stefanostelladevops">My LinkedIn page</a>
+<a href="mailto:stefano.stella@email.it">stefano.stella@email.it</a>
+| <a href="https://github.com/mprenditore">GitHub</a>
+| <a href="https://gitlab.com/mprenditore">GitLab</a>
+| <a href="https://www.linkedin.com/in/stefanostelladevops">LinkedIn</a>
 </div>
 
-## Currently
+## Executive Summary
 
-### Overview
+Visionary IT and Engineering Leader with over 15 years of technical experience and 7+ years driving strategic growth, architecture, and cultural transformation. Proven track record of scaling engineering organizations, including rapidly building a high-performing core platform team from 2 to 90 members. Expert in standardizing enterprise IT operations, heavily optimizing cloud infrastructure, and executing cost-efficiency strategies that achieved a 70% reduction in cloud spend. Passionate about fostering a culture of continuous improvement, psychological safety, and operational excellence through automation, DevSecOps best practices, and robust SDLC procedures. Mentors cross-functional technical teams to align deeply with broader business and product goals.
 
-With over 15 years of experience in IT and more than 5 years in leadership roles, I am committed to enhancing business efficiency and inspiring teams of IT professionals to deliver exceptional, high-quality products.
+## Core Competencies & Skills
 
-### Specialized in
+- **Strategic Leadership:** IT Strategy, Team Building & Scaling small to big teams, Cross-Functional Collaboration, Mentorship, Agile Methodologies
+- **Financial & Operational Management:** IT Budget Management (€2M+), Cloud Cost Optimization, Vendor Negotiation, Enterprise Security (ISO 27001, NIS2), Disaster Recovery
+- **Technical Stack:** AWS, Kubernetes, Terraform, Ansible, Python, GitLab CI/CD, Proxmox, Linux
+- **Engineering Excellence:** System Architecture, High Availability (HA), CI/CD Automation, Observability, Scalability, SDLC Optimization
 
-Mentoring IT professionals, team management, coordinate projects across multiple teams, cost optimization for cloud and hybrid infrastructures, automation, scripting, containerization, simplify developers life.
+## Professional Experience
 
-### Research interests
+`2019/04 - present`
+**Head of DevSecOps & IT Infrastructure**, Arringo, Malta
 
-Cloud and on-premise infrastructures, new technologies, electronics.
-
-## Education
-
-`2016 - 2018`
-__Linux Foundation Certified SysAdmin (LFCS)__
-
-`2009 - 2010`
-__Medic Engineering (Not accomplished)__, University of Tor Vergata, Rome
-
-`2005 - 2009`
-__Secondary High School: Technician specialized in informatics__, ITIS A.Volta, Frosinone
-
-## Occupation
-
-`2021/04 - present`
-__Head of DevOps__, Arringo, Malta
-
-- Spearhead the support, design, and operational management of the business’s core platforms, ensuring the availability and performance of services across the entire organization
-- Lead the design, implementation, and operation of highly secure and scalable platforms supporting critical business applications and websites
-- Identify and eliminate bottlenecks across DevOps and engineering, increasing efficiency through streamlined processes and automation for faster, optimized delivery
-- Cultivate a culture of continuous improvement by mentoring DevOps, DBA, QA, and development personnel, fostering growth in their technical and collaborative skills
-- Manage and expand the core platform team from 2 to around 90 people, collaborating closely with cross-functional teams to ensure seamless integration and alignment with business objectives
-- Ensure the adoption of industry best practices in infrastructure architecture, maintaining a forward-looking approach to innovative technologies and solutions
-- Establish and enforce company-wide IT procedures and policies, standardizing workflows and enhancing consistency in delivery, security, and compliance
-- Partner with various departments to implement ISO 27001 and NIS2 standards, elevating the organization’s security and regulatory compliance
-- Define budget for the IT department and implement cost-saving strategies through infrastructure optimization, reducing cloud spend by 50% and optimizing resource utilization without compromising performance
-- Develop and manage robust disaster recovery (DR) and business continuity plans to ensure operational resilience and data protection
-- Define and implement a comprehensive monitoring and observability strategy, utilizing tools and metrics that provide actionable insights for preemptive issue resolution and continuous improvement
-- Act as a key liaison between technical teams and business stakeholders, translating complex technical strategies into clear, actionable insights for leadership and clients
-
-`2019/04 - 2021/04`
-__DevOps Architect (Lead)__, Arringo, Malta
-
-- Refactor the CI/CD utilizing Ansible, Terraform and GitLab CI
-- Optimize K8s deployment and resource allocation cutting on the size of the cluster by 50% while keeping space to add more pods
-- Maintain and optimize the existing infrastructure correctly sizing the instances to cut down costs by 30%
-- Create a new infrastructure on AWS from scratch via IaC where to migrate the old one reducing the cost by 70%
-- Setup monitoring from scratch
-- Coordinate work with developers to improve their workflow
-- Create and optimize docker images for CI/CD and developers, reducing size by over 70%
+- **Team Growth & Leadership:** Orchestrated the expansion of the core platform team from 2 to 90 highly skilled engineers across DevOps, DBA, QA, and Development disciplines. Built the DevOps team from scratch to 7 engineers, successfully mentoring members to the point where two advanced to managerial positions elsewhere. Instituted comprehensive mentorship programs and career development paths to foster a culture of continuous improvement.
+- **Budget & Cost Optimization:** Managed a €2M annual IT budget encompassing Cloud infrastructure and third-party SaaS systems (Atlassian, Slack, Security vendors). Yielded an overall cost optimization of >70% against forecasted growth over 7 years. Architected and deployed a new AWS cloud infrastructure from the ground up using Infrastructure as Code (Terraform, Ansible), successfully migrating legacy systems.
+- **Infrastructure Scaling & Cost Avoidance:** Redesigned Kubernetes infrastructure to support a 30x increase in applications (2 to 60) and 50x increase in environments (4 to 215) with only 20% increase in total compute spend over 7 years compared to the original cost. Streamlined deployments and resource allocation, shrinking the cluster footprint by 50%. Achieved an estimated $500,000+ in annual AWS cost avoidance by optimizing pod density (from 2 to 80 pods/node) and migrating expensive external managed services (RabbitMQ, Redis, Graylog) into the self-hosted cluster.
+- **Engineering Efficiency & Delivery:** Revolutionized the SDLC and deployment pipelines by refactoring entire CI/CD workflows using GitLab CI, severely decreasing Time to Deliver (lead time for changes) to under 10 minutes from code push to production deploy. Significantly improved developer velocity and reduced Docker image sizes by over 70% for faster testing and deployment cycles. Consistently minimized Release Failure rates by establishing rigorous, automated testing.
+- **Reliability & Incident Management:** Achieved a Time to Recovery (MTTR) of under 5 minutes for disruptive bugs by engineering highly observable systems, robust deployment rollbacks, and preemptive alerting strategies. Designed and implemented a comprehensive, centralized monitoring and logging ecosystem from scratch.
+- **Security & Compliance:** Partnered cross-departmentally to drive the successful implementation of ISO 27001 and NIS2 compliance frameworks, establishing rigorous company-wide IT procedures and enhancing organizational security.
+- **Business Strategy Alignment:** Acted as a pivotal bridge between deeply technical engineering groups and executive stakeholders, translating complex architectural strategies into actionable business value.
+- **Observability Stack:** Designed and implemented a comprehensive, centralized monitoring and logging ecosystem from scratch. 
 
 `2018/07 - 2019/03`
-__Senior DevOps Engineer__, JackpotJoy Group, Malta
+**Senior DevOps Engineer**, JackpotJoy Group, Malta
 
-- Containerization of services on OpenShift
-- Improving the monitoring infrastructure reducing by 50% the amount of bouncing alerts and introduced custom HAProxy zabbix template
-- Refactoring and development of Ansible playbooks
-- Helping Junior DevOps on daily task to improve productivity
+- Led the containerization and migration of core legacy services onto an OpenShift platform.
+- Re-engineered the monitoring infrastructure and integrated custom HAProxy Zabbix templates, dramatically decreasing noise and reducing bouncing alerts by 50%.
+- Developed, refactored, and maintained extensive Ansible configuration management playbooks.
 
 `2018/01 - 2018/07`
-__Site Reliability Engineer__, GIG, Malta
+**Site Reliability Engineer**, GIG, Malta
 
-- Migrate, whenever possible, services from a Windows to a GNU/Linux environment
-- Manage and optimize CI/CD to reduce deploy speed by 200%;
-- Develop a monitor ecosystem with the integration of different tools
-- Re-design the infrastructure to facilitate the migration from a monolithic application to micro-services combining Virtual Machines and containers
-- Developing of specific tools to reduce the daily routine to gain time to spend on other tasks
-- Optimize RabbitMQ infrastructure to sustain 100% more throughput while avoiding pileup of messages
-- Organize and coordinate services migration to cloud providers
+- Re-designed the underlying architecture to migrate a massive monolithic application into a resilient micro-services ecosystem, utilizing a hybrid of Virtual Machines and containers.
+- Optimized and managed CI/CD pipelines, accelerating deployment speeds by 200%.
+- Restructured the RabbitMQ messaging infrastructure, boosting throughput capacity by 100% and eliminating message pileup during high-traffic occurrences.
+- Engineered automated deployment tools and ecosystems, heavily reducing manual toil and operational friction.
 
-`2016/04 - 2017/12`
-__System Engineer__, DNX Corp, Malta
 
-- Manage the infrastructure (GNU/Linux environment)
-- Monitor all servers via Zabbix for performance analysis and alert system creating custom checks and templates
-- Contributed to Nagstamon OpenSource tool to improve Zabbix integration
-- Migrate monitoring from Nagios to Zabbix to remove over 90% of false positive alarms
-- Migrate our infrastructure on private cloud services (AWS/Cloudmonkey);
-- Manage servers via Salt Stack and BASH/Python scripting;
-- Manage various logging/observability tools (Logstash/Influxdb/Grafana)
+`2016 - 2017`
+**System Engineer**, DNX Corp, Malta
+- Managed GNU/Linux infrastructure, automated deployments with SaltStack and Python/Bash, migrated Nagios to Zabbix to reduce false positive and on-call alerts by 80%, implemented better observability to reduce troubleshooting time and migrated systems to AWS/Cloudmonkey.
 
-`2015/08 - 2016/03`
-__System Engineer__, National Web Consulting, Italy
+`2015 - 2016`
+**System Engineer**, National Web Consulting, Italy
+- Administered corporate networks and automated customized CRM and eCommerce deployments.
 
-- Schedule task between webmasters to respect the deadline
-- Creating a modular CRM from scratch
-- Migration of CMS/eCommerce from various hosting provider or local
-- Integration between custom Management Software and eCommerce for product items
-- Network administrator
-- Websites deploy automation
+`2012 - 2015`
+**System Administrator / Developer**, Meway Srl, Italy
+- Managed GNU/Linux server environments, developed automations that reduced Radio Journal editing time by 95%, allowing journalists to deliver fresher news closer to the release time. Developed bespoke C++ applications for embedded systems.
 
-`2012/10 - 2015/07`
-__System Administrator - Developer__, Meway Srl, Italy
+`2011 - 2012`
+**System Administrator**, NetSolutions Srl, Italy
+- Managed fleets of up to 15 servers and 100 endpoints, administrating ESXi VM platforms and network topology.
 
-- System Administrator of GNU/Linux servers and infrastructure
-- Web applications developing
-- C++ software developing for “Raspberry pi” custom applications
-- Samsung Smart TV App developing
+`2007 - 2009`
+**IT Technician**, Informan Srl, Italy
+- Executed OS configurations, batch scripting for OS installation and configuration, and deep system analysis to identify new virus and malwares.
 
-`2011/05 - 2012/07`
-__System Administrator__, NetSolutions Srl, Italy
+## Education & Certifications
 
-- System Administrator: GNU/Linux and Windows servers management
-- Hardware and Software manage up to 15 servers and 100 PCs
-- Network Administrator: server monitoring
-- VPS on VM ESXi 4 e 5 manage
+`2016 - 2018`
+**Linux Foundation Certified SysAdmin (LFCS)**
 
-`2007 - 2009 (summer break)`
-__IT Technician__, Informan Srl, Italy
-
-- PC repairing
-- Help desk to customer for software update
-- Virus detection and removal: PC scanning using various Virus/Malware tools, in case of unknown virus I proceeded analyzing the operating system to search for anomalies, elaborate of results, removed it/them and sent a report to antivirus companies
-- OS installation on PCs (Windows and various GNU/Linux distro) with custom post installation batch/bash scripts for software installation and configuration
-
-<!-- ### Footer
-
-Last updated: Sep 2020 -->
+`2005 - 2009`
+**Secondary High School: Technician specialized in Informatics**, ITIS A.Volta, Frosinone
