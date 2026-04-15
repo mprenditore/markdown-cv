@@ -7,7 +7,7 @@ title: Stefano Stella
 **Head of DevOps & IT Engineering Leadership**
 
 <div id="webaddress">
-<a href="mailto:stefano.stella@email.it">stefano.stella@email.it</a>
+<a href="mailto:stefano@stella.pw">stefano@stella.pw</a>
 | <a href="https://github.com/mprenditore">GitHub</a>
 | <a href="https://gitlab.com/mprenditore">GitLab</a>
 | <a href="https://www.linkedin.com/in/stefanostelladevops">LinkedIn</a>
